@@ -36,7 +36,14 @@ h2 {
     font-size: 25px;
 }
 
-a:link { color: #578CFF}
-a:visited, a:hover {color: #FFFF44;}
+a:link { 
+    color: #578CFF
+}
+a:visited {
+    color: #FFFF44;
+}
+a:hover {
+    color: #FFFF44;
+}
 
 
