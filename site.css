@@ -36,8 +36,7 @@ h2 {
     font-size: 25px;
 }
 
-a { color: #abcde1}
-a.visited, a.hover {color: #1abcde;}
+a { color: #578CFF}
+a.visited, a.hover {color: #FFFF44;}
 
-a.special {color:#123456;}
 
