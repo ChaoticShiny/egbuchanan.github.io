@@ -38,5 +38,6 @@ h2 {
 
 a { color: #578CFF}
 a.visited, a.hover {color: #FFFF44;}
+a.special {color: #FFFF44;}
 
 
