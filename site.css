@@ -1,7 +1,7 @@
 body {
     font-family: "Trebuchet MS", Verdana, sans-serif;
     font-size: 16px;
-    background-color: dimgrey;
+    background-color:  #b8c7cc;
     color: #FF8C00;
     padding: 3px;
 }
@@ -14,10 +14,23 @@ body {
     border-radius: 0 0 5px 5px;
 }
 
+#about {
+    padding: 5px;
+    padding-left:  15px;
+    padding-right: 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
+}
+
 h1 {
     font-family: Georgia, serif;
     border-bottom: 3px solid #cc9900;
     color: #996600;
     font-size: 30px;
+}
+
+h2 {
+    
+}
 }
 
